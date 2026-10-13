@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = stephie.wanani@gmail.com
+	name = Stephie Wanani
